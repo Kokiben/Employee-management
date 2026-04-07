@@ -16,8 +16,7 @@ It allows managing employees with basic CRUD operations.
 
 * Java
 * Spring Boot
-* Maven
-* MySQL (if you used it)
+* PostgreSql
 
 ## ▶️ How to Run
 
